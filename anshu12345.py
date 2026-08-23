@@ -19,7 +19,7 @@ BOT_TOKEN = "8658924202:AAGlaypnLN7XtUi4_BPLy6axRrgE_nFOZOA"        # e.g. "1234
 CHANNEL_ID = "-1004309680225"      # e.g. "-1001234567890" (your private admin/orders channel)
 ADMIN_ID = 6644342214                                  # e.g. 5551234567 — your numeric Telegram user id
 
-UPI_ID = "yourupi@bank"                       # your real UPI ID shown to buyers
+UPI_ID = "8303721228@ibl"                       # your real UPI ID shown to buyers
 QR_IMAGE_PATH = ""                             # optional: path to a QR code image, e.g. "qr.jpg" — leave "" to skip
 
 if not BOT_TOKEN or BOT_TOKEN == "PUT_YOUR_BOT_TOKEN_HERE":
